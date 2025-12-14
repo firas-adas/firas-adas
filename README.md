@@ -1,7 +1,7 @@
 ## Hi, I'm Firas 
 
 Junior Computer Science major at Lipscomb University  
-Aspiring Software Engineer | Full-stack & backend focused
+Software Engineering Intern Candidate | Full-stack & backend focused
 
 ### What I work on
 - AI-powered web applications (Flask, OpenAI API)
