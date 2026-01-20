@@ -39,14 +39,3 @@ An AI-assisted platform that processes structured company input, generates optim
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,flask,java,cpp,mysql,git,github,vscode,html,css" />
 </div>
-
----
-
-## GitHub Stats
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=FirasAdas&show_icons=true&hide_border=true" />
-
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=FirasAdas&hide_border=true" />
-
-</div>
