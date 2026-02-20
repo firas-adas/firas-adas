@@ -1,47 +1,49 @@
-<!-- Profile README for: FirasAdas -->
+# Firas Adas
 
-<div align="center">
+Computer Science student at Lipscomb University specializing in AI-driven full-stack development. I build applications that solve real problems using Python, JavaScript, and modern web technologies.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=900&center=true&vCenter=true&width=760&lines=Firas+Adas;Computer+Science+Student+%40+Lipscomb+University;Building+Full-Stack+and+AI-Powered+Projects;Python+%7C+Flask+%7C+SQL+%7C+Java+%7C+C%2B%2B" />
+## About Me
 
-</div>
+I'm a junior at Lipscomb University studying Computer Science with a focus on software engineering and AI integration. I have hands-on experience from a software engineering internship where I built Python automation tools and monitoring dashboards. Currently seeking Summer 2026 software engineering internships.
 
----
+**Location:** Nashville, TN  
+**Expected Graduation:** May 2027  
+**GPA:** 3.56 / 4.0  
 
-## About
-I’m a Computer Science student at Lipscomb University based in Nashville, TN.  
-I focus on building practical software systems, especially full-stack applications and AI-powered workflows that solve real problems.
+## Technical Skills
 
-I care about clean architecture, readable code, and understanding how systems behave beyond just making them “work.”
-
----
+**Languages:** Python, JavaScript, Java, C++, C, SQL  
+**Frameworks & Libraries:** Flask, React, OpenGL  
+**Tools & Platforms:** Git, Linux, VS Code, OpenAI API  
+**Concepts:** Data Structures, Algorithms, RESTful APIs, Database Design  
 
 ## Projects
 
-# OptiCore AI
+**OptiCore AI** | [View Repository](https://github.com/firas-adas/opticore-ai)  
+Business optimization platform that uses GPT-4 to analyze business data and generate strategic recommendations with automated health scoring. Built with Python, Flask, OpenAI API, JavaScript, and React.
 
-AI-powered business optimization platform that transforms unstructured business notes into prioritized growth strategies with automated health scoring.
+**Fitness Tracker** | [View Repository](https://github.com/firas-adas/fitness-tracker)  
+Full-stack web application for tracking workouts, meals, and body metrics. Features relational database design with Flask backend and SQL database for structured data storage.
 
-## Tech Stack
-- Python, Flask
-- OpenAI GPT-4 API
-- JavaScript, React
-- HTML/CSS
+**Gesture Control Panel** | [View Repository](https://github.com/firas-adas/gesture-control)  
+Computer vision library for webcam-based hand tracking using MediaPipe and React. Implements custom smoothing and debouncing algorithms for reliable gesture recognition.
 
-## Features
-- Business health scoring (0-100 scale)
-- AI-driven recommendations across 4 pillars
-- Real-time analysis dashboard
-- JSON validation and error handling
+## Experience
+
+**Software Engineer Intern, Teltekgroup** (Summer 2024)  
+Developed Python automation scripts that reduced diagnostic troubleshooting time by 85%. Built a Flask monitoring dashboard for real-time system performance tracking and created automated test suites for public safety radio systems.
+
+## Education
+
+**Lipscomb University** - Bachelor of Science in Computer Science  
+Relevant Coursework: Data Structures & Algorithms, Design & Analysis of Algorithms, Operating Systems, Software Engineering, Database Management Systems, Object-Oriented Programming
+
+## Contact
+
+**LinkedIn:** [linkedin.com/in/firas-adas](https://linkedin.com/in/firas-adas)  
+**Email:** firas.adas05@gmail.com  
+**GitHub:** [@firas-adas](https://github.com/firas-adas)  
 
 ---
 
-## Technical Skills
-- **Languages:** Python, Java, C++  
-- **Backend:** Flask, REST APIs  
-- **Data:** SQL / MySQL  
-- **Tools:** Git, GitHub, VS Code  
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,flask,java,cpp,mysql,git,github,vscode,html,css" />
-</div>
+Currently preparing for technical interviews and seeking Summer 2026 software engineering internship opportunities.
