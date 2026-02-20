@@ -18,15 +18,21 @@ I care about clean architecture, readable code, and understanding how systems be
 
 ## Projects
 
-### Fitness Tracker Web Application
-A full-stack web app that allows users to log workouts, track body metrics, and monitor nutrition.
-- Python, Flask, SQL/MySQL
-- Authentication, relational models, REST-style routes
+# OptiCore AI
 
-### Opticore AI
-An AI-assisted platform that processes structured company input, generates optimization insights, and returns a composite company score.
-- Python, API integration, backend development
-- Input pipelines, AI evaluation flow, score normalization
+AI-powered business optimization platform that transforms unstructured business notes into prioritized growth strategies with automated health scoring.
+
+## Tech Stack
+- Python, Flask
+- OpenAI GPT-4 API
+- JavaScript, React
+- HTML/CSS
+
+## Features
+- Business health scoring (0-100 scale)
+- AI-driven recommendations across 4 pillars
+- Real-time analysis dashboard
+- JSON validation and error handling
 
 ---
 
