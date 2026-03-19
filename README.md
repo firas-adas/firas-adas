@@ -38,5 +38,3 @@ Relevant Coursework: Data Structures & Algorithms, Design & Analysis of Algorith
 **Email:** firas.adas05@gmail.com  
 **GitHub:** [@firas-adas](https://github.com/firas-adas)  
 
----
-Currently preparing for technical interviews and seeking Summer 2026 software engineering internship opportunities.
