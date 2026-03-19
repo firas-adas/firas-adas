@@ -2,7 +2,7 @@
 Computer Science student at Lipscomb University specializing in AI-driven full-stack development. I build applications that solve real problems using Python, JavaScript, and modern web technologies.
 
 ## About Me
-I'm a junior at Lipscomb University studying Computer Science with a focus on software engineering and AI integration. I have hands-on experience from a software engineering internship where I built Python automation tools and monitoring dashboards. Currently seeking Summer 2026 software engineering internships.
+I'm a junior at Lipscomb University studying Computer Science with a focus on software engineering and AI integration. I have hands-on experience from a software engineering internship where I built Python automation tools and monitoring dashboards. 
 
 **Location:** Nashville, TN  
 **Expected Graduation:** May 2027  
