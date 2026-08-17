@@ -67,15 +67,6 @@ Full-stack platform using GPT-4 to transform unstructured business notes into pr
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firas-adas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Firas's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firas-adas&theme=tokyonight&hide_border=true" alt="Firas's Streak" height="165"/>
-</p>
-
----
-
 ### 📫 Let's connect
 
 <p align="center">
