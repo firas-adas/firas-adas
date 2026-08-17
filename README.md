@@ -1,40 +1,90 @@
-# Firas Adas
-Computer Science student at Lipscomb University specializing in AI-driven full-stack development. I build applications that solve real problems using Python, JavaScript, and modern web technologies.
+<h1 align="center">Hi, I'm Firas 👋</h1>
+<h3 align="center">Data Engineer | CS @ Lipscomb University | Class of 2027</h3>
 
-## About Me
-I'm a junior at Lipscomb University studying Computer Science with a focus on software engineering and AI integration. I have hands-on experience from a software engineering internship where I built Python automation tools and monitoring dashboards. 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Building+data+pipelines+that+don't+silently+lie+to+you.;Snowflake+%2B+dbt+%2B+Azure+Data+Factory.;Currently+seeking+new+grad+Data+Engineering+roles+for+2027." alt="Typing SVG" />
+</p>
 
-**Location:** Nashville, TN  
-**Expected Graduation:** May 2027  
-**GPA:** 3.56 / 4.0  
+---
 
-## Technical Skills
-**Languages:** Python, JavaScript, Java, C++, C, SQL  
-**Frameworks & Libraries:** Flask, React, MediaPipe  
-**Tools & Platforms:** Git, Linux, VS Code, OpenAI API  
-**Concepts:** Data Structures, Algorithms, RESTful APIs, Database Design, Computer Vision  
+### 🔧 What I'm building
 
-## Projects
+I'm a Computer Science student pursuing Data Engineering, with production experience shipping pipelines end to end this past summer at **LP Building Solutions**. I care about pipelines that fail loudly instead of shipping wrong numbers quietly — most of what I build reflects that.
 
-**OptiCore AI** | [View Repository](https://github.com/firas-adas/opticore-ai) | [Live Demo](https://opticore-ai.onrender.com)  
-Business optimization platform that uses GPT-4 to analyze business data and generate strategic recommendations with automated health scoring. Built with Python, Flask, OpenAI API, and JavaScript.
+- 🏗️ Built two source systems from ingestion through reporting in **Snowflake + dbt + Azure Data Factory**, extending a metadata-driven ingestion framework to support a new file format
+- 📦 Built **ShelfSnap**, an AI invoice scanner in real use by independent convenience store owners
+- 🧠 Building out ShelfSnap's data layer next — landing raw invoice data, dimensional modeling, and a proper reconciliation pipeline against distributor orders
+- 🎓 Studying for **SnowPro Core** certification
 
-**Gesture Control Panel** | [View Repository](https://github.com/firas-adas/gesture-control-panel) | [Live Demo](https://gesture-control-panel.vercel.app)  
-Real-time hand gesture recognition app using MediaPipe that detects 4 gestures (index point, open palm, peace sign, fist) by measuring fingertip-to-wrist distances across 21 landmarks. Uses a 5-frame voting system to filter misreads and ensure stable detection. Built with JavaScript, React, and HTML5 Canvas.
+---
 
-**Fitness Tracker** | [View Repository](https://github.com/firas-adas/fitness-tracker)  
-Full-stack web application for tracking workouts, meals, and body metrics. Features relational database design with Flask backend and SQL database for structured data storage.
+### 🧰 Tech Stack
 
-## Experience
-**Software Engineer Intern, Teltekgroup** (Summer 2024)  
-Developed Python automation scripts that reduced diagnostic troubleshooting time by 85%. Built a Flask monitoring dashboard for real-time system performance tracking and created automated test suites for public safety radio systems at Nashville International Airport.
+**Data**
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-## Education
-**Lipscomb University** - Bachelor of Science in Computer Science  
-Relevant Coursework: Data Structures & Algorithms, Design & Analysis of Algorithms, Operating Systems, Software Engineering, Database Management Systems, Object-Oriented Programming
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-## Contact
-**LinkedIn:** [linkedin.com/in/firas-adas](https://linkedin.com/in/firas-adas)  
-**Email:** firas.adas05@gmail.com  
-**GitHub:** [@firas-adas](https://github.com/firas-adas)  
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
+---
+
+### 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🧾 [ShelfSnap](https://github.com/firas-adas/shelfsnap)**
+AI-powered invoice scanner used by independent convenience store owners to extract line-item data from distributor invoices and manage price margins. In real production use, not a demo.
+
+`Python` `Flask` `React` `Claude API`
+
+</td>
+<td width="50%">
+
+**⚙️ OptiCore AI**
+Full-stack platform using GPT-4 to transform unstructured business notes into prioritized, scored growth roadmaps across four strategic pillars.
+
+`Python` `Flask` `OpenAI API` `JavaScript`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=firas-adas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Firas's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firas-adas&theme=tokyonight&hide_border=true" alt="Firas's Streak" height="165"/>
+</p>
+
+---
+
+### 📫 Let's connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/firas-adas">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:firas.adas05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>Open to new grad Data Engineering roles for 2027 — always happy to connect.</i></p>
